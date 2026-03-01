@@ -1,5 +1,16 @@
 # Releases
 
+## [wexCommerce 4.2](https://github.com/aelassas/wexcommerce/releases/tag/v4.2) – 2026-03-01
+
+* fix(security): enforce backend verification of mobile social auth tokens
+
+### Assets
+- [wexcommerce-db.zip](https://github.com/aelassas/wexcommerce/releases/download/v4.2/wexcommerce-db.zip) (5.84 MB)
+
+### Source Code
+- [Source code (zip)](https://api.github.com/repos/aelassas/wexcommerce/zipball/v4.2)
+- [Source code (tar)](https://api.github.com/repos/aelassas/wexcommerce/tarball/v4.2)
+
 ## [wexCommerce 4.1](https://github.com/aelassas/wexcommerce/releases/tag/v4.1) – 2026-02-27
 
 * fix(security): unauthenticated admin registration
